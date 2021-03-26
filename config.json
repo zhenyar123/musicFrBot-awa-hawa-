@@ -1,9 +1,9 @@
 {
-    "TOKEN": "Votre_Token_Hyper_Secret",
+    "TOKEN": "ODA5NDM3MjAzMDEyNzgwMTAy.YCVFIw.8RIu2D9bTQf1YfkLis6bN5umss0",
     "YOUTUBE_API_KEY": "Votre_Api_Key_Hyper_Secrete",
     "SOUNDCLOUD_CLIENT_ID": "",
     "MAX_PLAYLIST_SIZE": 1000,
-    "PREFIX": "Votre_Token",
+    "PREFIX": ">",
     "PRUNING": false,
     "STAY_TIME": 30,
     "DEFAULT_VOLUME": 100
